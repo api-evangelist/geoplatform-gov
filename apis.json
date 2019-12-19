@@ -1,0 +1,40 @@
+{
+    "name": "Geoplatform.gov",
+    "description": "<p>Welcome to the Geoplatform Developer Pathway. On this site you will find the tools, documentation, resources to help you, collaborate, discover, consume and distribute your geospatial data, web maps, apps and maps. Use this space to familiarize yourself with various development platforms and fundamentals for building your own GIS maps or applications.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/geoplatform-gov-logo.png",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/geoplatform-gov\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Geoplatform.gov",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/geoplatform-gov-logo.png",
+            "humanURL": "http:\/\/www.geoplatform.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/geoplatform-gov-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.geoplatform.gov\/developer-pathway"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.geoplatform.gov"
+        }
+    ]
+}
